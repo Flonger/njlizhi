@@ -93,8 +93,6 @@ class _AudioPlayerState extends State<_AudioPlayerPage>
         duration: const Duration(milliseconds: 300), vsync: this);
     ges_curve =
         new CurvedAnimation(parent: ges_controller, curve: Curves.linear);
-
-    PlayerTools.instance.setSongs([widget.song], 0);
   }
 
   @override

@@ -107,7 +107,7 @@ class SongsConfig {
       'icon':
           'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564576284416&di=c88279dd6a35590052eec4890972508e&imgtype=0&src=http%3A%2F%2Fimg21.mtime.cn%2Fmg%2F2011%2F05%2F02%2F150256.17000320.jpg',
       'desc':
-          '李志的个人第二张专辑。2005年于南京录制。李志曾在现场演出中多次提到，《你离开了南京，从此没有人和我说话》献给离开南京的兄弟“拉比�������������������；《春末的南方城市》是在杭州写成，当时李志的同学赶着去上班，他坐长途车离开。《来了》写得是大学同学有关的一个故事；《董卓瑶》是一个南京的朋友。李志早期作品中传唱最广的歌曲《梵高先生》就是出自本张专辑。',
+          '李志的个人第二张专辑。2005年于南京录制。李志曾在现场演出中多次提到，《你离开了南京，从此没有人和我说话》献给离开南京的兄弟“拉比�����������������������《春末的南方城市》是在杭州写成，当时李志的同学赶着去上班，他坐长途车离开。《来了》写得是大学同学有关的一个故事；《董卓瑶》是一个南京的朋友。李志早期作品中传唱最广的歌曲《梵高先生》就是出自本张专辑。',
       'songs': [
         {
           'title': '01你离开了南京，从此没有人和我说话.mp3',
@@ -202,6 +202,97 @@ class SongsConfig {
           'title': '09这个世界会好吗&人民不需要自由&妈妈.mp3',
           'url':
               'http://pvrk7kj7l.bkt.clouddn.com/09%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97&%E4%BA%BA%E6%B0%91%E4%B8%8D%E9%9C%80%E8%A6%81%E8%87%AA%E7%94%B1&%E5%A6%88%E5%A6%88.mp3'
+        },
+      ],
+    },
+    {
+      'id': '04',
+      'title': '工体东路没有人',
+      'year': '2009',
+      'icon':
+          'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1564576392599&di=ed52d459d57e5d3a3e1e7827a704f9e4&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fc833295dd8ddb17d5bb87621be3267375c49c35b59458-PL6kBA_fw236',
+      'desc':
+          '2009年1月11日在北京“愚公移山”演出的现场录音。由MicroMu不插电录制。本张专辑收录了演出中的部分曲目，包括李志前三张个人专辑中的大部分经典曲目的不插电版。此唱片未发行过实体唱片。',
+      'songs': [
+        {
+          'title': '01被禁忌的游戏.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/01%20Forbidden%20Game%20%28%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F%29%20%5BLive%5D.mp3'
+        },
+        {
+          'title': '02和你在一起.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/02%20Be%20With%20You%20%28%E5%92%8C%E4%BD%A0%E5%9C%A8%E4%B8%80%E8%B5%B7%29%20%5BLive%5D.mp3'
+        },
+        {
+          'title': '03来了.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/03%20It%20Has%20Come%20%28%E6%9D%A5%E4%BA%86%29%20%5BLive%5D.mp3'
+        },
+        {
+          'title': '04卡夫卡.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/04%20Kafka%20%28%E5%8D%A1%E5%A4%AB%E5%8D%A1%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '05黑色信封.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/05%20Black%20Envelop%20%28%E9%BB%91%E8%89%B2%E4%BF%A1%E5%B0%81%29%20%5BLive%5D.mp3'
+        },
+        {
+          'title': '06阿兰.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/06%20Alan%20%28%E9%98%BF%E5%85%B0%29%20%5BLive%5D.mp3'
+        },
+        {
+          'title': '07春末的南方城市.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/07%20A%20Southern%20City%20In%20A%20Late%20Spring%EF%BC%88%E6%98%A5%E6%9C%AB%E7%9A%84%E5%8D%97%E6%96%B9%E5%9F%8E%E5%B8%82%EF%BC%89%5BLive%5D.mp3'
+        },
+        {
+          'title': '08他们.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/08%20They%20%28%E4%BB%96%E4%BB%AC%29%20%5BLive%5D.mp3'
+        },
+        {
+          'title': '09暧昧.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/09%20A%20Vague%20Talk%20%28%E6%9A%A7%E6%98%A7%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '10结婚.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/10%20Marriage%20%28%E7%BB%93%E5%A9%9A%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '11这个世界会好吗.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/11%20Has%20Man%20A%20Future%20%28%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%BC%9A%E5%A5%BD%E5%90%97%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '12红色气球.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/12%20Red%20Balloon%20%28%E7%BA%A2%E8%89%B2%E6%B0%94%E7%90%83%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '13月亮代表我的心.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/13%20Moon%20Says%20My%20Heart%20%28%E6%9C%88%E4%BA%AE%E4%BB%A3%E8%A1%A8%E6%88%91%E7%9A%84%E5%BF%83%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '14董卓瑶.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/14%20Miss%20Dong%20%28%E8%91%A3%E5%8D%93%E7%91%B6%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '15青春.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/15%20Once%20Upon%20A%20Time%20%28%E9%9D%92%E6%98%A5%29%20%5BLive%5D.mp3',
+        },
+        {
+          'title': '16想起了她.mp3 ',
+          'url':
+              'http://pvspmmh94.bkt.clouddn.com/16%20When%20I%20Miss%20Her%20%28%E6%83%B3%E8%B5%B7%E4%BA%86%E5%A5%B9%29%20%5BLive%20Bonus%20Track%5D.mp3',
         },
       ],
     },
